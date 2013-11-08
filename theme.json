@@ -1,5 +1,6 @@
 {
     "id": "nodebb-theme-craftfire",
+    "staticDir":"images",
     "name": "NodeBB Craftfire",
     "description": "Craftfire Theme for NodeBB",
     "url": "https://github.com/ipetepete/nodebb-theme-craftfire",
