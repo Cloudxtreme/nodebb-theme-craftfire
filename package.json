@@ -1,38 +1,30 @@
 {
-  "name": "nodebb-theme-cerulean",
+  "name": "nodebb-theme-craftfire",
   "version": "0.0.5",
-  "description": "Cerulean theme for NodeBB",
+  "description": "Craftfire theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/designcreateplay/nodebb-theme-cerulean"
+    "url": "https://github.com/ipetepete/nodebb-theme-craftfire"
   },
   "keywords": [
     "nodebb",
-    "cerulean",
+    "crafting",
+    "craftfire",
+    "cute",
     "theme",
     "themes"
   ],
   "contributors": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@designcreateplay.com",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@designcreateplay.com",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@designcreateplay.com",
-      "url": "https://github.com/barisusakli"
+      "name": "Pete Peterson",
+      "email": "peter@luvpixels.com",
+      "url": "https://github.com/ipetepete"
     }
   ],
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/designcreateplay/nodebb-theme-cerulean/issues"
+    "url": "https://github.com/ipetepete/nodebb-theme-craftfire/issues"
   },
   "peerDependencies": {
     "nodebb-theme-vanilla": "~0.0.3"

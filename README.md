@@ -1,4 +1,4 @@
-nodebb-theme-cerulean
+nodebb-theme-craftfire
 =====================
 
-The default NodeBB theme based on the vanilla theme
+A NodeBB theme based on the vanilla theme for the crafting communtiy.
